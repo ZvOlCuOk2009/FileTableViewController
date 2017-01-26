@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FileTableViewController.h
 //  FileTableViewController
 //
 //  Created by Mac on 26.01.17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FileTableViewController : UITableViewController
 
 @end
-
